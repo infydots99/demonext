@@ -54,15 +54,15 @@ export default function Home() {
         </div>
 
         <div className='bg-[#F7F7F8] px-10 py-4 w-full rounded-xl mb-3 font-semibold'>
-          <p>Google</p>
+          <p className='text-[#27262A]'>Google</p>
         </div>
 
         <div className='bg-[#F7F7F8] px-10 py-4 w-full rounded-xl mb-3 font-semibold'>
-          <p>Altavista</p>
+          <p className='text-[#27262A]'>Altavista</p>
         </div>
 
         <div className='bg-[#F7F7F8] px-10 py-4 w-full rounded-xl font-semibold'>
-          <p>WAIS</p>
+          <p className='text-[#27262A]'>WAIS</p>
         </div>
 
         <div className='text-center mb-6 mt-6'>
