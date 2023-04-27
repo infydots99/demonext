@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] })
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center p-12 bg-[#4B25AE]">
-      <div className='w-[350px]'>
+      <div className='w-[396px]'>
         <div>
           <span className='absolute'>
             <Image
@@ -20,7 +20,7 @@ export default function Home() {
             Quizerr</p>
         </div>
       </div>
-      <div className='bg-white w-[350px] rounded-[35px] p-7 z-10'>
+      <div className='bg-white w-[396px] rounded-[35px] p-7 z-10'>
         <p className='text-center text-2xl font-extrabold text-[#5D5A63]'>Questions</p>
         <p className='text-center text-[#7441FA] font-extrabold'>14/20</p>
         <div className='flex items-center content-center px-5'>
@@ -94,7 +94,7 @@ export default function Home() {
         <Image
           src="/shadow.png"
           alt="Picture of the author"
-          width={332}
+          width={372}
           height={60} />
       </span>
     </main>
